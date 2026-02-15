@@ -1,0 +1,521 @@
+{
+  "home": {
+    "shopByCategory": "Shop by category",
+    "bestSellingProducts": "Best Selling Products",
+    "newArrivals": "New Arrivals",
+    "exclusiveComboDeals": "Exclusive Combo Deals",
+    "featuredProducts": "Featured Products"
+  },
+  "meta": {
+    "siteName": "Ednleaf",
+    "tagline": "Pure and natural products, delivered",
+    "description": "Pure honey, ghee, mustard oil, spices and dry fruits — sourced directly and delivered nationwide with cash on delivery."
+  },
+  "common": {
+    "home": "Home",
+    "search": "Search for products (e.g. holud, yellow mustard)...",
+    "add": "ADD",
+    "addToCart": "Add To Cart",
+    "addedToCart": "Added to cart",
+    "addToCartFailed": "Could not add to cart. Please try again.",
+    "buyNow": "Buy Now",
+    "outOfStock": "Out of Stock",
+    "inStock": "In Stock",
+    "viewAll": "View All",
+    "filters": "Filters",
+    "previous": "Previous",
+    "next": "Next",
+    "loading": "Loading...",
+    "currency": "৳",
+    "breadcrumb": "Breadcrumb"
+  },
+  "nav": {
+    "trackOrder": "Track Order",
+    "signIn": "Sign In",
+    "signOut": "Logout",
+    "more": "More",
+    "combo": "Combo",
+    "offerZone": "Offer Zone",
+    "categories": "Categories",
+    "viewAllCategory": "View all {category}",
+    "welcomeGuest": "Welcome, Guest",
+    "register": "Register",
+    "myAccount": "My Account",
+    "wishlist": "Wishlist",
+    "cart": "Cart",
+    "quickLinks": "Quick Links",
+    "information": "Information",
+    "language": "Language"
+  },
+  "badge": {
+    "new": "New Arrival",
+    "sale": "Sale",
+    "bestsell": "Best Seller",
+    "combo": "Combo Offer",
+    "outOfStock": "Out of Stock"
+  },
+  "catalog": {
+    "showingResults": "Showing {first}–{last} of {total} products",
+    "productCount": "{count} products",
+    "sortBy": "Sort by:",
+    "sort": {
+      "default": "Default sorting",
+      "popularity": "Popularity",
+      "latest": "Latest",
+      "priceAsc": "Price: low to high",
+      "priceDesc": "Price: high to low"
+    },
+    "gridView": "Grid view",
+    "listView": "List view",
+    "categories": "Categories",
+    "collectionsNav": "Collections",
+    "allProducts": "All",
+    "filterByPrice": "Filter by Price",
+    "priceUpTo": "Up to {price}",
+    "availability": "Availability",
+    "clearFilters": "Clear filters",
+    "noProducts": "No products found",
+    "noProductsHint": "Try loosening the filters, or browse another category.",
+    "collections": {
+      "combos": {
+        "title": "Exclusive Combo Deals",
+        "description": "Buy them together and save more — every bundle we offer, in one place."
+      },
+      "bestSales": {
+        "title": "Best Selling Products",
+        "description": "The products our customers order most."
+      },
+      "newArrivals": {
+        "title": "New Arrivals",
+        "description": "The latest additions to our shelves, before anyone else."
+      },
+      "featuredProducts": {
+        "title": "Featured Products",
+        "description": "A hand-picked selection of our very best quality."
+      },
+      "offers": {
+        "title": "Offer Zone",
+        "description": "Everything currently discounted, gathered in one place."
+      }
+    }
+  },
+  "combo": {
+    "viewBundle": "View Bundle",
+    "unavailable": "Unavailable",
+    "components": "In this bundle",
+    "viewProduct": "View Product",
+    "regularPrice": "Regular price",
+    "youSave": "You save"
+  },
+  "product": {
+    "reviews": "Reviews",
+    "reviewsWithCount": "Reviews ({count})",
+    "reviewCount": "({count} Reviews)",
+    "save": "Save",
+    "weight": "Weight",
+    "quantity": "Quantity",
+    "decreaseQuantity": "Decrease quantity",
+    "increaseQuantity": "Increase quantity",
+    "sku": "SKU:",
+    "category": "Category:",
+    "availability": "Availability:",
+    "unitsInStock": "{count} in Stock",
+    "share": "Share:",
+    "shareOnFacebook": "Share on Facebook",
+    "shareOnTwitter": "Share on X",
+    "copyLink": "Copy link",
+    "linkCopied": "Link copied to clipboard",
+    "shareVia": "Share",
+    "orderOnWhatsapp": "Order On WhatsApp",
+    "whatsappMessage": "Hello, I would like to order {name} ({variant}) — {price}.",
+    "description": "Description",
+    "productOverview": "Product Overview",
+    "relatedProducts": "Related Products",
+    "writeReview": "Write a Review",
+    "basedOnReviews": "Based on {count} reviews",
+    "verifiedPurchase": "Verified Purchase",
+    "stars": "Stars",
+    "quickView": "Quick view",
+    "addToWishlist": "Add to wishlist",
+    "wishlistEmpty": "Your wishlist is empty",
+    "wishlistEmptyHint": "Tap the heart on any product and it will show up here.",
+    "wishlistSignInPrompt": "Sign in to save items to your wishlist.",
+    "wishlistUpdateFailed": "Could not update your wishlist. Please try again.",
+    "wishlistClearAll": "Clear All",
+    "wishlistItemUnavailable": "This product is no longer available.",
+    "viewImage": "View image {index}",
+    "reviewModal": {
+      "title": "Submit Your Review",
+      "subtitle": "Your review will be published once our team approves it.",
+      "opinionLabel": "Write your opinion about the product",
+      "opinionPlaceholder": "Write Your Review Here...",
+      "ratingLabel": "Your Rating:",
+      "submit": "SUBMIT REVIEW",
+      "loading": "Checking your orders for this product...",
+      "noEligibleItems": "You can review this product once we've delivered an order containing it.",
+      "selectItemLabel": "Which order was this?",
+      "selectItemPlaceholder": "Select an order"
+    }
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The address you followed is gone, or never existed. Pick up where you left off below.",
+    "backHome": "Back to home",
+    "browseCollections": "Browse collections"
+  },
+  "cart": {
+    "title": "Your Cart",
+    "empty": "Your cart is empty",
+    "emptyHint": "You haven't added anything to your cart yet.",
+    "subtotal": "Subtotal",
+    "checkout": "Checkout",
+    "continueShopping": "Continue Shopping",
+    "remove": "Remove",
+    "productHeader": "Product",
+    "priceHeader": "Price",
+    "quantityHeader": "Quantity",
+    "totalHeader": "Total",
+    "clearCart": "Clear Cart",
+    "orderSummary": "Order Summary",
+    "itemsSubtotal": "Subtotal ({count} items)",
+    "shipping": "Shipping",
+    "shippingNote": "Calculated at checkout",
+    "discount": "Discount",
+    "haveCoupon": "Have a coupon code?",
+    "couponPlaceholder": "Enter code",
+    "apply": "Apply",
+    "proceedToCheckout": "Proceed to Checkout",
+    "viewCart": "View Cart",
+    "itemsSuffix": "Items"
+  },
+  "footer": {
+    "aboutUs": "About Us",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "returnPolicy": "Return Policy",
+    "delivery": "Delivery Information",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved.",
+    "brandDescription": "Your one-stop shop for premium quality products. We deliver the best items directly to your doorstep with care and reliability.",
+    "information": "Information",
+    "support": "Support",
+    "contactUs": "Contact Us",
+    "address": "House 12, Road 5, Dhanmondi, Dhaka",
+    "newsletter": "Newsletter",
+    "newsletterPlaceholder": "Enter your email address",
+    "newsletterText": "Register now and be instantly informed about discounts and advantages",
+    "subscribe": "Subscribe",
+    "privacyConsent": "I have read the privacy policy and agree to receive promotional emails."
+  },
+  "testimonials": {
+    "title": "Customer Reviews",
+    "reviews": [
+      {
+        "name": "Sadia Afrin",
+        "role": "Frequent Buyer",
+        "text": "The mustard oil here is truly exceptional! You can get the authentic aroma of cold-pressed oil."
+      },
+      {
+        "name": "Mahmudul Hasan",
+        "role": "Businessman",
+        "text": "After searching for pure honey for so long, I finally found it here. No doubts about the quality."
+      },
+      {
+        "name": "Farzana Eva",
+        "role": "Homemaker",
+        "text": "The flavor of the spices is so rich that it brings a unique taste to the food. Packaging was also great."
+      },
+      {
+        "name": "Arifur Rahman",
+        "role": "Service Holder",
+        "text": "Ordered almonds and dates. The size was quite large and very fresh. Received the delivery very fast."
+      },
+      {
+        "name": "Nishat Tasnim",
+        "role": "Frequent Buyer",
+        "text": "The taste of pure Gawa Ghee is exactly like the homemade ghee from my childhood. Highly satisfied."
+      },
+      {
+        "name": "Towhid Iqbal",
+        "role": "Teacher",
+        "text": "Customer service is top-notch. They respond quickly and resolve any issues without hassle."
+      },
+      {
+        "name": "Shamima Nasrin",
+        "role": "Homemaker",
+        "text": "The pungent aroma and taste of the mustard oil are perfect. It forces me to order again and again."
+      },
+      {
+        "name": "Kamrul Islam",
+        "role": "Entrepreneur",
+        "text": "The quality of products here is much better than other brands in the market. Can buy without hesitation."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "stillNeedHelp": "Still need help?",
+    "contactUs": "CONTACT US",
+    "trackOrderBanner": "You can track your orders in 'My Orders'.",
+    "trackOrderBtn": "TRACK ORDERS",
+    "emptyFaq": "No FAQs available for this category yet.",
+    "categories": {
+      "top-queries": "Top Queries",
+      "terms": "Terms and Conditions",
+      "shipping": "Shipping, Order Tracking & Delivery",
+      "cancellations": "Cancellations and Modifications",
+      "returns": "Returns and Exchange",
+      "account": "Sign Up and Login",
+      "payments": "Payments"
+    },
+    "questions": {
+      "top-queries": [
+        {
+          "q": "What is Try and Buy Service?",
+          "a": "Try and Buy is a service that allows you to try on your purchases at home and pay for only what you like."
+        },
+        {
+          "q": "Why are there different prices for the same product? Is it legal?",
+          "a": "Different sellers may offer the same product at different prices based on their pricing strategy."
+        },
+        {
+          "q": "I saw the product at Rs. 1000 but post clicking on the product, there are multiple prices...",
+          "a": "Prices can vary based on size, color, or seller availability."
+        },
+        {
+          "q": "How will I detect fraudulent emails/calls seeking sensitive information?",
+          "a": "We will never ask for your passwords, PINs, or OTPs. Please do not share these details."
+        },
+        {
+          "q": "How do I cancel the order, I have placed?",
+          "a": "You can cancel your order from the 'My Orders' section before it gets dispatched."
+        }
+      ],
+      "shipping": [
+        {
+          "q": "How long does delivery take?",
+          "a": "Usually it takes 1-2 days inside the city and 3-5 working days outside."
+        },
+        {
+          "q": "What is the delivery charge?",
+          "a": "Delivery charge varies depending on your location and order value."
+        },
+        {
+          "q": "How can I track my order?",
+          "a": "You can track your order status in the 'My Orders' section."
+        }
+      ],
+      "returns": [
+        {
+          "q": "Can I return a product if there is an issue?",
+          "a": "Yes, you can initiate a return within 7 days of delivery."
+        },
+        {
+          "q": "How do I create a Return Request?",
+          "a": "Go to 'My Orders', select the item, and click 'Return/Exchange'."
+        }
+      ],
+      "payments": [
+        {
+          "q": "What payment methods are accepted?",
+          "a": "We accept Cash on Delivery, bKash, Nagad, and all major cards."
+        }
+      ]
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "heading": "Let's Get in Touch.",
+    "subheading": "Whether you have a question about our products, delivery, or anything else, we're here to help. Send us a message and we'll reply as soon as possible.",
+    "emailTitle": "EMAIL US",
+    "addressTitle": "ADDRESS",
+    "getInTouch": "GET IN TOUCH",
+    "formHeading": "Send us a message",
+    "name": "Your name",
+    "email": "name@yourname.com",
+    "phonePlaceholder": "+880 123 456 789",
+    "message": "Enter your message here...",
+    "submit": "Submit Form",
+    "addressValue": "House 12, Road 5, Dhanmondi, Dhaka"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "backToCart": "Back to Cart",
+    "customerInfo": "Customer Information",
+    "haveAccount": "Already have an account? Login",
+    "fullName": "Full Name *",
+    "fullNamePlaceholder": "e.g. Rahim Uddin",
+    "phone": "Phone Number *",
+    "phonePlaceholder": "01XXXXXXXXX",
+    "email": "Email Address (Optional)",
+    "emailPlaceholder": "example@email.com",
+    "deliveryAddress": "Delivery Address",
+    "fullAddress": "Full Address *",
+    "fullAddressPlaceholder": "House/Flat No, Road No, Area...",
+    "city": "City/District *",
+    "cityPlaceholder": "Select District",
+    "zone": "Zone/Area *",
+    "zonePlaceholder": "Select Area",
+    "deliveryMethod": "Delivery Method",
+    "insideDhaka": "Inside Dhaka",
+    "insideDhakaDesc": "Delivery within 24-48 hours",
+    "outsideDhaka": "Outside Dhaka",
+    "outsideDhakaDesc": "Delivery within 3-5 days",
+    "paymentMethod": "Payment Method",
+    "cod": "Cash on Delivery",
+    "codDesc": "Pay when you receive the product",
+    "bkash": "bKash Manual",
+    "bkashDesc": "Send money to our merchant number",
+    "bkashInstructions": "Please send ৳{total} to our bKash merchant number: 01XXXXXXXXX.",
+    "bkashNumber": "bKash Number",
+    "bkashNumberPlaceholder": "01XXXXXXXXX",
+    "trxId": "Transaction ID",
+    "trxIdPlaceholder": "E.G. 9J7A6X8Y2Z",
+    "card": "Credit / Debit Card",
+    "orderReview": "Order Review",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "discount": "Discount",
+    "coupon": "Coupon Code",
+    "apply": "Apply",
+    "total": "Total",
+    "termsStart": "I agree to the ",
+    "terms": "Terms & Conditions",
+    "and": " and ",
+    "privacy": "Privacy Policy",
+    "placeOrder": "Place Order",
+    "codTitle": "Cash on Delivery (COD)",
+    "codSub": "Pay when you receive your order",
+    "bkashTitle": "bKash",
+    "bkashSub": "Pay securely with bKash",
+    "nagadTitle": "Nagad",
+    "nagadSub": "Pay securely with Nagad",
+    "paymentInstructions": "{method} Payment Instructions",
+    "personalSendMoney": "Personal (Send Money)",
+    "sendMoneyTo": "SEND MONEY TO THIS {method} NUMBER",
+    "copy": "Copy",
+    "howToPay": "How to pay:",
+    "step1": "1. Open the {method} app or dial {dial}.",
+    "step2": "2. Select 'Send Money'.",
+    "step3": "3. Send the exact amount to the number below.",
+    "step4": "4. Copy the Transaction ID (TrxID) from the confirmation.",
+    "step5": "5. Enter your number and the TrxID in the form below.",
+    "yourNumber": "Your {method} Number",
+    "yourNumberPlaceholder": "017XXXXXXXX",
+    "trxIdLabel": "Transaction ID (TrxID)",
+    "errorNamePhone": "Please enter your name and a valid phone number",
+    "errorAddress": "Please enter your full delivery address",
+    "errorEmptyCart": "Your cart is empty",
+    "errorWalletInfo": "Please enter the wallet number and transaction ID you paid with",
+    "errorTerms": "Please agree to the Terms & Conditions",
+    "errorCalculating": "Please wait for the order total to finish calculating",
+    "errorEnterDistrict": "Enter your delivery district first",
+    "couponApplied": "Coupon applied",
+    "placing": "Placing your order..."
+  },
+  "checkoutSuccess": {
+    "title": "Thank You for Your Order!",
+    "description": "Your order has been placed successfully and is now being processed.",
+    "orderNumber": "Order Number",
+    "expectedDelivery": "Expected Delivery",
+    "expectedDeliveryTime": "Within 2-3 business days",
+    "guestPrompt": "Create an account to save your order history and checkout faster next time.",
+    "createAccount": "Create Account",
+    "trackOrder": "Track Order",
+    "continueShopping": "Continue Shopping"
+  },
+  "myCoupons": {
+    "title": "My Coupons",
+    "subtitle": "Apply these codes at checkout to save on your order.",
+    "available": "Available Coupons",
+    "noneAvailable": "No active coupons right now.",
+    "unavailable": "Used / Unavailable",
+    "noneUnavailable": "Nothing here yet.",
+    "minOrder": "Minimum order {amount}",
+    "validTill": "Valid till {date}",
+    "upcomingFrom": "Available from {date}",
+    "expiredOn": "Expired {date}",
+    "statusUpcoming": "Upcoming",
+    "statusExpired": "Expired",
+    "statusInactive": "Inactive",
+    "statusExhausted": "Fully redeemed",
+    "statusUsed": "Already used",
+    "statusFirstOrderOnly": "First order only",
+    "off": "off"
+  },
+  "guestReview": {
+    "title": "Share Your Experience",
+    "subtitle": "Thanks for your order — let other customers know what you thought.",
+    "ratingLabel": "Your Rating:",
+    "opinionLabel": "Write your opinion about the product",
+    "opinionPlaceholder": "Write your review here...",
+    "submit": "Submit Review",
+    "thankYouTitle": "Thank you for your reviews!",
+    "thankYouDescription": "Your feedback has been submitted and will appear on the product page once approved."
+  },
+  "trackOrder": {
+    "title": "Track Your Order",
+    "description": "Enter your Order ID and the phone or email you used at checkout.",
+    "placeholder": "e.g. ORD-20260924-1A866E7E",
+    "button": "Track",
+    "orderId": "Order ID:",
+    "status": "Status",
+    "contactPhone": "Phone",
+    "contactEmail": "Email",
+    "linkExpiredTitle": "This tracking link has expired or been revoked",
+    "linkExpiredDescription": "For your security, tracking links only stay active for a short while. Request a new one below.",
+    "getNewLink": "Get a New Link",
+    "trackAnother": "Track a different order",
+    "invalidPhone": "Use a valid Bangladesh mobile number (e.g. 017XXXXXXXX)",
+    "rateLimitedTitle": "You've checked this a few too many times",
+    "rateLimitedDescription": "For your security, tracking lookups are limited for a short while. Please wait about 15 minutes and try again."
+  },
+  "auth": {
+    "welcomeBack": "Welcome Back! 👋",
+    "signInPrompt": "Please sign in to your account.",
+    "emailLabel": "Email Address",
+    "emailPlaceholder": "e.g. user@example.com",
+    "passwordLabel": "Password",
+    "passwordPlaceholder": "••••••••",
+    "forgotPasswordQ": "Forgot Password?",
+    "signInBtn": "Sign In",
+    "dontHaveAccount": "Don't have an account?",
+    "createAccount": "Create Account",
+    "createAccountTitle": "Create Account 🚀",
+    "joinUsPrompt": "Join us to get started.",
+    "fullNameLabel": "Full Name",
+    "fullNamePlaceholder": "John Doe",
+    "phoneLabel": "Phone Number",
+    "phonePlaceholder": "+880 1...",
+    "alreadyHaveAccount": "Already have an account?",
+    "forgotPasswordTitle": "Forgot Password 🔒",
+    "forgotPasswordPrompt": "Enter your email address and we'll send you a link to reset your password.",
+    "sendResetLink": "Send Reset Link",
+    "backToSignIn": "Back to Sign In",
+    "resetPasswordTitle": "Reset Password 🔑",
+    "resetPasswordPrompt": "Enter your new password below.",
+    "newPasswordLabel": "New Password",
+    "resetPasswordBtn": "Reset Password",
+    "verifyOtpTitle": "Verify OTP 📩",
+    "verifyOtpPrompt": "We've sent a 6-digit code to {email}. Please enter it below.",
+    "codeDeadMsg": "That code can no longer be used. Request a new one ",
+    "codeDeadBelow": "below.",
+    "codeDeadIn": "in {time}.",
+    "verifyCodeBtn": "Verify Code",
+    "codeExpiresIn": "Code expires in",
+    "codeExpired": "This code has expired.",
+    "codeTimingUnavailable": "No active code found. Request a new code.",
+    "didntReceiveCode": "Didn't receive the code?",
+    "resendOtp": "Resend OTP",
+    "resendIn": "Resend in {time}",
+    "loadingSignIn": "Signing in...",
+    "loadingSignUp": "Creating account...",
+    "loadingSendOtp": "Sending OTP...",
+    "loadingVerifyOtp": "Verifying OTP...",
+    "loadingReset": "Resetting password...",
+    "loadingResend": "Resending OTP...",
+    "loadingSignOut": "Signing out..."
+  }
+}
