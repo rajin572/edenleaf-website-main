@@ -48,3 +48,5 @@ AGENTS.md
 CLAUDE.md
 .claude
 .vercel
+make_commits.*
+create_commits.*
